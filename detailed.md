@@ -34,8 +34,6 @@ Building a knowledge base out of domain specific documents in order to query and
 
 ## Key Features
 
-Serverless computing, message processing with Apache Kafka, minimal code
-techniques.
 
 ## Rationale
 
