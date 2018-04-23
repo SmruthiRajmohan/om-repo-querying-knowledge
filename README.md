@@ -22,7 +22,7 @@ Querying a set of unstructured documents using Natural Language Processing Techn
 
 ## Strategic Alignment
 
-* IBM Products -
-* Key Features -
+* IBM Products - Watson Studio, Watson NLU
+* Key Features - Python, Object Storage, Node-Red
 * Business Unit -
 * Offering Manager -
