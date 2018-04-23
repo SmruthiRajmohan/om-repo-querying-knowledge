@@ -1,6 +1,6 @@
 # om-repo-querying-knowledge
 
-Enhance existing messaging systems with simple transformations to create new processes and data transformations with the least amount of code using Apache OpenWhisk.
+Querying a set of unstructured documents using Natural Language Processing Techniques in Watson Studio
 
 ## Links
 
