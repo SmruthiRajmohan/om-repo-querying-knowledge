@@ -59,8 +59,6 @@ The analysis of the unstructured Data starts with a conventional process to some
 
 ### Competition
 
-* AWS Lambda has the most mature offering in the market with event triggers broadly supported in the AWS platform
-* No other vendor has an open serverless platform, emphasize integrations with 3rd parties wherever possible to highlight OpenWhisk community
 
 ## Concept
 
