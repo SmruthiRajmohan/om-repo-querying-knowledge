@@ -75,16 +75,10 @@ Pattern is for those who want to be able to extract useful information from an u
 
 ### What will they learn?
 
-Serverless demonstrates the power of one line of code with minimal configuration to add new capabilities to solutions. This Code Pattern highlights the benefits of using this technology for developer productivity – zero server
-admins required, rapid application cycles, etc. With very little effort, a developer can now add event driven responses to messages to extend an existing application.
+
 
 ## What does it look like?
 
-1. Provision Message Hub
-2. Create OpenWhisk actions, triggers, and rules
-3. Test new message events
-4. Delete actions, triggers, and rules
-5. Recreate deployment manually
 
 # Strategy
 
